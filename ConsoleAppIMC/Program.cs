@@ -45,6 +45,7 @@ namespace ConsoleAppIMC
 
             Console.ReadKey();
 
+            // e &&, ou ||, não !
         }
     }
 }
